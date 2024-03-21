@@ -13,16 +13,36 @@ I received the Ph.D. degree from City University of Hong Kong under the supervis
 
 
 Work Experiences
-------
+======
 Assistant Professor, Department of Computer Science,  Shantou University, 2018 - Now
     
 Research Areas
-------
+======
 Machine Learning: Multi-view clustering, Multi-task learning.
 
 Bioinformatics: Multi-omic cancer subtyping, Single cell clustering, Survival analysis modeling.
 
+Services
+======
+Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics ; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE/ACM Transactions on Computational Biology and Bioinformatics ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023; ICME 2023, 2024.
 
+Publications
+======
+
+Under review
+------
+[IEEE TKDE] **Cheng Liu**, Rui Li, Hangjun Che, Si Wu, Dazhi Jiang, Zhiwen Yu and Hau-San Wong: Latent Structure-Aware View Recovery for Incomplete Multi-view Clustering. IEEE Transactions on Knowledge and Data Engineering (Revision: 1 Major, 2 Minor)  [JCR Q1] [CCF A]
+
+\item[\textbf{[IEEE TNNLS]}]  {\bf Cheng Liu}, Rui Li, Hangjun Che, Si Wu, Dazhi Jiang, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View  Clustering. IEEE Transactions on Neural Networks and Learning Systems (Under Review)  [JCR Q1] [CCF B]
+
+\item[\textbf{[IEEE ICDE]}]  Hang Gao, Xibiao Wang, \textbf{Cheng Liu}, Si Wu, Zhiwen Yu and Hau-San Wong: Optimal Transport based Graph Matching for Partially View-Aligned Clustering. (Under Review) [CCF A] \textbf{(Corresponding author)} 
+
+
+\item[\textbf{[IEEE TCBB]}] Hang Gao (Student), Wenjun Shen, and \textbf{Cheng Liu}\#: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. IEEE/ACM Transactions on Computational Biology and Bioinformatics (Revision) [CCF B] \textbf{(Corresponding author)} 
+
+
+2024
+------
 
 Getting started
 ======
