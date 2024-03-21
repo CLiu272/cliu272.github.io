@@ -7,11 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor in the Department of Computer Science at Shantou University.  
+I received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018.
 
 
-A data-driven personal website
-======
-    I am an Assistant Professor in the Department of Computer Science at Shantou University.  I received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018.
+Work Experiences
+------
+Assistant Professor, Department of Computer Science,  Shantou University, 2018 - Now
+    
+Research Areas
+------
+Machine Learning: Multi-view clustering, Multi-task learning.
+
+Bioinformatics: Multi-omic cancer subtyping, Single cell clustering, Survival analysis modeling.
+
+
 
 Getting started
 ======
