@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Department of Computer Science at Shantou University.  
+I am an Assistant Professor (讲师) in the Department of Computer Science at Shantou University.  
 I received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018.
 
 
