@@ -76,7 +76,7 @@ Representative Works (Journal):
 
 - **[IEEE TCBB]** **Cheng Liu**, Hau-San Wong: Structured Penalized Logistic Regression for Gene Selection in Gene Expression Data Analysis. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2017) [JCR Q2] [CCF B]
 
-- **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* (Co-corresponding author) [JCR Q1] [CCF B]
+- **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
 
 - **[IEEE TIP]** Jichang Li, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semi-Supervised Deep Coupled Ensemble Learning With Classification Landmark Exploration. *IEEE Transactions on Image Processing* (2020) [CCF A] [JCR Q1]
 
@@ -140,6 +140,33 @@ Representative Works (Journal):
 
 Representative Works (Conference):
 ------
+
+- **[AAAI]** Xue Wen, Lianxin Xie, Le Jiang, Tianyi Chen, Si Wu\#, **Cheng Liu**\#, Hau-San Wong. RetouchFormer: Semi-supervised High-quality Face Retouching Transformer with Prior-based Selective Self-attention. AAAI 2024 [CCF A] **(Co-corresponding author)**
+
+- **[IEEE ICME]** Junjie Liang (Student), Hang Gao (Student), Haojun Sun, Rui Li, and **Cheng Liu**\#. Reliable self-supervised information mining for deep subspace clustering. IEEE ICME 2022 [CCF B] **(Corresponding author)**
+
+- **[COLING]** Rui Li, **Cheng Liu**\#, Yu Tong and Jiang Dazhi. Feature Structure Matching for Multi-source Sentiment Analysis with Efficient Adaptive Tuning. COLING 2024 [CCF B] **(Co-corresponding author)**
+
+- **[ICONIP]** **Cheng Liu**, Wen-Ming Cao, Chutao Zheng, Hau-San Wong. Learning With Partially Shared Features in Multi-Task Learning. The 24th International Conference on Neural Information Processing ICONIP [CCF C]
+
+
+- **[CVPR]** Lianxin Xie, Bingbing Zheng, Wen Xue, Le Jiang, **Cheng Liu**, Si Wu, Hau-San Wong. Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration. CVPR 2024 [CCF A]
+
+- **[CVPR]** Si Wu, Jichang Li, **Cheng Liu**, Zhiwen Yu, Hau-San Wong. Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification. CVPR 2019: 6500-6509 (CCF A)
+
+- **[CVPR]** Xiwen Wei, Zhen Xu, **Cheng Liu**, Si Wu, Zhiwen Yu, Hau San Wong. Text-Guided Unsupervised Latent Transformation for Multi-Attribute Image Manipulation. CVPR 2013 (CCF A)
+
+- **[IJCAI]** Sheng Qian, Guanyue Li, Wen-Ming Cao, **Cheng Liu**, Si Wu, Hau-San Wong. Improving representation learning in autoencoders via multidimensional interpolation and dual regularizations. IJCAI 2019: 3268-3274 (CCF A)
+
+- **[COLING]** Rui Li, **Cheng Liu**, Dazhi Jiang. Asymmetric Mutual Learning for Multi-source Unsupervised Sentiment Adaptation with Dynamic Feature Network (CCF B)
+
+- **[ICME]** Zhongfan Zhang, Wenming Cao, **Cheng Liu**, Rui Li, Qianfen Jiao, Zhiwen Yu, C. L. Philip Chen, Hau-San Wong. Unsupervised Ensemble Learning Via Network Generation. ICME 2021: 1-6 (CCF B)
+
+- **[IEEE SMC]** Chutao Zheng, **Cheng Liu**, Hau-San Wong. Iterative Term Weighting for Short Text Data. IEEE International Conference on Systems, Man, and Cybernetics. IEEE, 2015: 1687-1692. **(Nominee of Best Paper Award)** (CCF C)
+  
+- **[IEEE SMC]** Hang Gao (Student), Yunshan Li (Student) and **Cheng Liu**\#. Progressive Deep Subspace Clustering based on Sample Reliability. IEEE SMC 2022 [CCF C] **(Corresponding author)** 
+
+
 
 
 
