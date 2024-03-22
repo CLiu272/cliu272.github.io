@@ -96,7 +96,7 @@ Representative Works (Journal):
 
 - **[NEURO]** **Cheng Liu**, Sentao Chen, Lin Zheng, Dazhi Jiang: Adaptive Graph-Guided Co-Regularization for Clustered Multi-Task Learning. *Neurocomputing* (2024) [JCR Q1]
 
-- **[BMC Bioinformatics]** Yong Liang (\textit{Supervisor}), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
+- **[BMC Bioinformatics]** Yong Liang (*Supervisor*), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
 
 - **[CAIS]** Zhen Zheng (Student), Rui Li, and **Cheng Liu**\#: Learning Robust Class-level Alignment for Cross Domain Medical Image Analysis via Dual Consistency Regularizations. *Complex \& Intelligent System* (2023) [JCR Q1] **(Corresponding author)** 
 
