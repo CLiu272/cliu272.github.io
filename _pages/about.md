@@ -165,7 +165,3 @@ Representative Works (Conference):
 
 
 
-
-
-
-Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
