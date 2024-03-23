@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-
-I am an Assistant Professor (讲师) in the Department of Computer Science at Shantou University.  
-I received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018.
-
+Dr. Cheng Liu is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TYCB), IEEE Transactions on Biomedical Engineering (TBME), and proceedings of the AAAI Conference on Artificial Intelligence. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province. 
+[Google Scholar]([https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml](https://scholar.google.com/citations?hl=en&user=RtovsZkAAAAJ&view_op=list_works&sortby=pubdate))
 
 Work Experiences
 ======
-Assistant Professor, Department of Computer Science,  Shantou University, 2018 - Now
+Lecturer, Department of Computer Science,  Shantou University, 2018 - Now
     
 Research Areas
 ======
