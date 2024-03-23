@@ -30,7 +30,7 @@ Research Grant (PI)
 
 **[Natural Science Foundation of Guangdong Province:]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12)
 
-Publications (#indicate Corresponding author)
+Research Outputs (#indicate Corresponding author)
 ======
 
 Manuscript/Preprints:
