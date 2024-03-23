@@ -93,15 +93,15 @@ Representative Works (Journal):
 
 - **[NEURO]** **Cheng Liu**, Sentao Chen, Lin Zheng, Dazhi Jiang: Adaptive Graph-Guided Co-Regularization for Clustered Multi-Task Learning. *Neurocomputing* (2024) [JCR Q1]
 
-- **[BMC Bioinformatics]** Yong Liang (*Supervisor*), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
+- **[INS]** Jiaxin Li, Haohong Zhou, Si Wu\#, **Cheng Liu**\#, Hau-San Wong: Collaborative Learning-based Unknown-class Instance Identification for Open-set Domain Adaptation. *Information Science* (2023).  [JCR Q1] [CCF B] **(Co-corresponding author)**
 
 - **[CAIS]** Zhen Zheng (Student), Rui Li, and **Cheng Liu**\#: Learning Robust Class-level Alignment for Cross Domain Medical Image Analysis via Dual Consistency Regularizations. *Complex \& Intelligent System* (2023) [JCR Q1] **(Corresponding author)** 
 
 - **[ASOC]** Sijin Zhou, Dongmin Huang, **Cheng Liu**\#, Dazhi Jiang\#: Objectivity meets subjectivity: A subjective and objective feature fused neural network for emotion recognition. *Applied Soft Computing* (2024) [JCR Q1] **(Co-corresponding author)**
 
-- **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
+- **[BMC Bioinformatics]** Yong Liang (*Supervisor*), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
 
-- **[INS]** Jiaxin Li, Haohong Zhou, Si Wu\#, **Cheng Liu**\#, Hau-San Wong: Collaborative Learning-based Unknown-class Instance Identification for Open-set Domain Adaptation. *Information Science* (2023).  [JCR Q1] [CCF B] **(Co-corresponding author)**
+- **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
 
 - **[INS]** Chenglu Li, Hangjun Che, Man-Fai Leung, **Cheng Liu**, Zheng Yan: Robust multi-view non-negative matrix factorization with adaptive graph and diversity constraints. *Information Sciences* [CCF B][JCR Q1]
 
