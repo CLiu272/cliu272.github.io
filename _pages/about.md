@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE/ACM Transactions on Computational Biology and Bioinformatics (TYCB), IEEE Transactions on Biomedical Engineering (TBME), and proceedings of the AAAI Conference on Artificial Intelligence. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province. 
-[Google Scholar]([https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml](https://scholar.google.com/citations?hl=en&user=RtovsZkAAAAJ&view_op=list_works&sortby=pubdate))
+Dr. Cheng Liu is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University. He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, AAAI etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province. My research interests include machine learning and bioinformatics. [Google Scholar]([https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml](https://scholar.google.com/citations?hl=en&user=RtovsZkAAAAJ&view_op=list_works&sortby=pubdate)) (Citation: 1000+; H-index: 18; i-index:25) [Research Gate]([https://www.researchgate.net/profile/Cheng-Liu-22]) 
 
 Work Experiences
 ======
