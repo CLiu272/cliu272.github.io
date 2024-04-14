@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr.Cheng Liu"
+title                    : "Dr. Cheng Liu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RtovsZkAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7204-7030"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https:"
   researchgate     : # URL
 
   # Repositories and software development
