@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, AAAI etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province. My research interests include machine learning and bioinformatics. [Google Scholar]([https://scholar.google.com/citations?hl=en&user=RtovsZkAAAAJ&view_op=list_works&sortby=pubdate]) (Citation: 1000+; H-index: 18; i-index:25). 
-[Researchgate]([https://www.researchgate.net/profile/Cheng-Liu-22]). 
+Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, AAAI etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province. My research interests include machine learning and bioinformatics. 
 
 Work Experiences
 ======
