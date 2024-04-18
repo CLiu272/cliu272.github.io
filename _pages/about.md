@@ -45,11 +45,6 @@ Manuscript/Preprints:
 
 - **[IEEE ICME]** Adversarial Style Interpolation for High-fidelity Stroke-aware Chinese Character Image Synthesis. Jiaxin Li,  Xindian Wei, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
-- **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: Anonymous submission IJCAI 2024 (Under Review)  [CCF A] **(Co-corresponding author)**
-
-- **[IJCAI]** Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Anonymous submission IJCAI 2024 (Under Review)  [CCF A]
-
-
 - Xibiao Wang (Student), Hang Gao (Student), **Cheng Liu#**, Si Wu, Zhiwen Yu and Hau-San Wong: Optimal Transport based Graph Matching for Partially View-Aligned Clustering. Manuscript. **(Corresponding author)**
 
 - Xindian Wei, Tianyi Chen, **Cheng Liu#**, Wenjun Shen, Si Wu, Hau-San Wong#: CEO: Co-Expression-based Optimal Transport Learning for Spatial Reconstruction of scRNA-seq Data
@@ -137,7 +132,8 @@ Representative Works (Journal):
 
 Representative Works (Conference):
 ------
-
+- **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation. IJCAI 2024 (Under Review)  [CCF A] **(Co-corresponding author)**
+- 
 - **[AAAI]** Xue Wen, Lianxin Xie, Le Jiang, Tianyi Chen, Si Wu\#, **Cheng Liu**\#, Hau-San Wong. RetouchFormer: Semi-supervised High-quality Face Retouching Transformer with Prior-based Selective Self-attention. AAAI 2024 [CCF A] **(Co-corresponding author)**
 
 - **[IEEE ICME]** Junjie Liang (Student), Hang Gao (Student), Haojun Sun, Rui Li, and **Cheng Liu**\#. Reliable self-supervised information mining for deep subspace clustering. IEEE ICME 2022 [CCF B] **(Corresponding author)**
