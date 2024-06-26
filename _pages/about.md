@@ -24,18 +24,22 @@ Services
 Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics ; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE/ACM Transactions on Computational Biology and Bioinformatics ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023; ICME 2023, 2024.
 
 
-Research Grant (PI)
+Research Grant: (主持/PI 项目5项，第一参与人2项)
 ======
-**[National Natural Science Foundation of China:]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
+**[National Natural Science Foundation of China/国家自然科学基金项目:]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **(PI)**
 
-**[Natural Science Foundation of Guangdong Province:]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12) 自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **(PI)**
+**[Natural Science Foundation of Guangdong Province/广东省自然科学基金项目面上项目:]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12) 自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **(PI)**
 
-- 结构化稀疏模型及其生物数据的应用, 广东省教育厅青年创新人才项目，5万， 主持
-- 基于组学数据方面的智能模型的快速实现应用开发服务， 中国科学技术大学苏州高等研究院（横向），10万， 主持
-- 基于正则化结构化稀疏模型及其医疗数据应用，汕头大学卓越人才科研启动基金，100万， 主持
-- 多网络视角学习增强的微生物和疾病复杂联系预测 (2024-2027)，50 万元, 国家自然科学基金面上项目，62372282，第一参与人
-- 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
+**[广东省教育厅青年创新人才项目:]** 结构化稀疏模型及其生物数据的应用, 广东省教育厅青年创新人才项目，5万， 主持
+
+**[中国科学技术大学苏州高等研究院（横向）:]** 基于组学数据方面的智能模型的快速实现应用开发服务， 中国科学技术大学苏州高等研究院（横向），10万， 主持
+
+**[汕头大学卓越人才科研项目:]**  基于正则化结构化稀疏模型及其医疗数据应用，汕头大学卓越人才科研启动基金，100万， 主持
+
+**[National Natural Science Foundation of China/国家自然科学基金项目:]** 多网络视角学习增强的微生物和疾病复杂联系预测 (2024-2027)，50 万元, 国家自然科学基金面上项目，62372282，第一参与人
+
+**[National Natural Science Foundation of China/广东省自然科学基金-青年提升项目:]** 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
 
 Research Outputs (#indicate Corresponding author)
 ======
