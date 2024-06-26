@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Dr. Cheng Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : #https://cliu272.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Cheng Liu"
+description              : &Welcome to my personal homepage"
+url                      : https://cliu272.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cliu272.github.io"
 
