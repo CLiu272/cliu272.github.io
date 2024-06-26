@@ -39,17 +39,35 @@ Manuscript/Preprints:
 
 - **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Revision**)  [JCR Q1] [CCF B]
 
-- **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (Minor Revision) [CCF B] **(Corresponding author)** 
+
 
 - **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
 - **[IEEE ICME]** Adversarial Style Interpolation for High-fidelity Stroke-aware Chinese Character Image Synthesis. Jiaxin Li,  Xindian Wei, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
-- Xibiao Wang (Student), Hang Gao (Student), **Cheng Liu#**, Si Wu, Zhiwen Yu and Hau-San Wong: Optimal Transport based Graph Matching for Partially View-Aligned Clustering. Manuscript. **(Corresponding author)**
-
-- Xindian Wei, Tianyi Chen, **Cheng Liu#**, Wenjun Shen, Si Wu, Hau-San Wong#: CEO: Co-Expression-based Optimal Transport Learning for Spatial Reconstruction of scRNA-seq Data
+- **[ACM MM 2024]**  Xibiao Wang (Student), Hang Gao (Student), **Cheng Liu#**, Si Wu, Zhiwen Yu and Hau-San Wong: Optimal Transport based Graph Matching for Partially View-Aligned Clustering. ACM MM 2024. [CCF A] **(Corresponding author)**
 
 
+
+- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Under Review) [JCR Q2] [CCF-B] **(Co-corresponding author)**
+
+
+- **[IEEE TCBB]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEE/ACM Transactions on Computational Biology and Bioinformatics (Under Review) [JCR Q2] [CCF-B] **(Corresponding author)**
+
+- **[BIB]**  Tianyi Chen, Xindian Wei,  Lianxin Xie, Yunfei Zhang, **Cheng Liu**, Wenjun Shen, Si Wu and Hau-San Wong: SELF-Former:Multi-scale Gene Filtration Transformer for Single-cell Spatial Reconstruction. Briefings in Bioinformatics (Under Review) [JCR Q1] [CCF-B]
+
+
+- **[IEEE TMM]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
+
+- **[ACM MM 2024]** Le Jiang, Yan Huang, Lianxin Xie, Wen Xue, **Cheng Liu**, Si Wu, Hau-San Wong: Hunting Blemishes: Language-guided High-fidelity Face Retouching Transformer with Limited Paired Data. ACM Multimedia 2024 [CCF A]
+
+
+- **[ACM MM 2024]** Yunfei Zhang, Jie Wang, Tianyi Chen, Yan Huang, **Cheng Liu**, Si Wu and Hau-San Wong: Facilitating Semi-supervised Diffusion-based Image Synthesis with Conditioning Information Fusion Flow. ACM Multimedia 2024 [CCF A]
+
+
+- **[NN]** Two-step Graph Propagation for Incomplete Multi-view Clustering: Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che. Neural Networks. [JCR Q1] [CCF B]
+
+  
 
 Representative Works (Journal):
 ------
@@ -67,6 +85,8 @@ Representative Works (Journal):
 - **[IEEE TCBB]** **Cheng Liu**, Wenming Cao, Si Wu, Wenjun Shen, Dazhi Jiang, Zhiwen Yu, Hau-San Wong: Supervised graph clustering for cancer subtyping based on survival analysis and integration of multi-omic tumor data. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2020) [JCR Q2] [CCF B]
 
 - **[IEEE TCBB]** **Cheng Liu**, Hau-San Wong: Structured Penalized Logistic Regression for Gene Selection in Gene Expression Data Analysis. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2017) [JCR Q2] [CCF B]
+
+- - **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024) [CCF B] **(Corresponding author)** 
 
 - **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
 
