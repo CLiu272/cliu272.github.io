@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cheng Liu Academic Homepage"
+title: "My Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,22 +10,22 @@ redirect_from:
 Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, AAAI etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province. My research interests include machine learning and bioinformatics. 
 
 Work Experiences
-======
+----
 Lecturer, Department of Computer Science,  Shantou University, 2018 - Now
     
 Research Areas
-======
+----
 Machine Learning: Multi-view clustering, Multi-task learning.
 
 Bioinformatics: Multi-omic cancer subtyping, Single cell clustering, Survival analysis modeling.
 
 Services
-======
+----
 Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics ; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE/ACM Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023; ICME 2023, 2024.
 
 
 Research Grant: (主持/PI 项目5项，第一参与人2项)
-======
+----
 **[National Natural Science Foundation of China/国家自然科学基金项目:]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **(PI)**
 
@@ -42,8 +42,8 @@ Research Grant: (主持/PI 项目5项，第一参与人2项)
 **[National Natural Science Foundation of China/广东省自然科学基金-青年提升项目:]** 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
 
 Research Outputs (#indicate Corresponding author)
-======
-First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, AAAI-1，IJCAI-1，ACMMM-1， ICME-1)
+---
+**First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, AAAI-1，IJCAI-1，ACMMM-1， ICME-1)**
 
 Manuscript/Preprints:
 ------
