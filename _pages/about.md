@@ -86,7 +86,7 @@ Representative Works (Journal):
 
 - **[IEEE TCBB]** **Cheng Liu**, Hau-San Wong: Structured Penalized Logistic Regression for Gene Selection in Gene Expression Data Analysis. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2017) [JCR Q2] [CCF B]
 
-- - **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024) [CCF B] **(Corresponding author)** 
+- **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024) [CCF B] **(Corresponding author)** 
 
 - **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
 
