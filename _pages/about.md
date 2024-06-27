@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Academic Homepage"
+title: "Cheng LIU"
 author_profile: true
 redirect_from: 
   - /about/
@@ -165,7 +165,7 @@ Representative Works (Journal):
 Representative Works (Conference):
 ------
 - **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation. IJCAI 2024 (Under Review)  [CCF A] **(Co-corresponding author)**
-- 
+  
 - **[AAAI]** Xue Wen, Lianxin Xie, Le Jiang, Tianyi Chen, Si Wu\#, **Cheng Liu**\#, Hau-San Wong. RetouchFormer: Semi-supervised High-quality Face Retouching Transformer with Prior-based Selective Self-attention. AAAI 2024 [CCF A] **(Co-corresponding author)**
 
 - **[IEEE ICME]** Junjie Liang (Student), Hang Gao (Student), Haojun Sun, Rui Li, and **Cheng Liu**\#. Reliable self-supervised information mining for deep subspace clustering. IEEE ICME 2022 [CCF B] **(Corresponding author)**
@@ -173,7 +173,6 @@ Representative Works (Conference):
 - **[COLING]** Rui Li, **Cheng Liu**\#, Yu Tong and Jiang Dazhi. Feature Structure Matching for Multi-source Sentiment Analysis with Efficient Adaptive Tuning. COLING 2024 [CCF B] **(Co-corresponding author)**
 
 - **[ICONIP]** **Cheng Liu**, Wen-Ming Cao, Chutao Zheng, Hau-San Wong. Learning With Partially Shared Features in Multi-Task Learning. The 24th International Conference on Neural Information Processing ICONIP [CCF C]
-
 
 - **[CVPR]** Lianxin Xie, Bingbing Zheng, Wen Xue, Le Jiang, **Cheng Liu**, Si Wu, Hau-San Wong. Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration. CVPR 2024 [CCF A]
 
