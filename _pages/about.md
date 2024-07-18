@@ -65,12 +65,9 @@ Manuscript/Preprints:
 
 - **[IEEE TMM]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
 
-- **[ACM MM 2024]** Yunfei Zhang, Jie Wang, Tianyi Chen, Yan Huang, **Cheng Liu**, Si Wu and Hau-San Wong: Facilitating Semi-supervised Diffusion-based Image Synthesis with Conditioning Information Fusion Flow. ACM Multimedia 2024 [CCF A]
-
-
 - **[NN]** Two-step Graph Propagation for Incomplete Multi-view Clustering: Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che. Neural Networks. [JCR Q1] [CCF B]
 
-  
+- **[manuscript]** Yunfei Zhang, Jie Wang, Tianyi Chen, Yan Huang, **Cheng Liu**, Si Wu and Hau-San Wong: Facilitating Semi-supervised Diffusion-based Image Synthesis with Conditioning Information Fusion Flow.   
 
 Representative Works (Journal):
 ------
