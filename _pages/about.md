@@ -51,15 +51,9 @@ Manuscript/Preprints:
 
 - **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Revision**)  [JCR Q1] [CCF B]
 
-
-
 - **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
 - **[IEEE ICME]** Adversarial Style Interpolation for High-fidelity Stroke-aware Chinese Character Image Synthesis. Jiaxin Li,  Xindian Wei, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
-
-- **[ACM MM 2024]**  Xibiao Wang (Student), Hang Gao (Student), **Cheng Liu#**, Si Wu, Zhiwen Yu and Hau-San Wong: Optimal Transport based Graph Matching for Partially View-Aligned Clustering. ACM MM 2024. [CCF A] **(Corresponding author)**
-
-
 
 - **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Under Review) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
@@ -70,9 +64,6 @@ Manuscript/Preprints:
 
 
 - **[IEEE TMM]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
-
-- **[ACM MM 2024]** Le Jiang, Yan Huang, Lianxin Xie, Wen Xue, **Cheng Liu**, Si Wu, Hau-San Wong: Hunting Blemishes: Language-guided High-fidelity Face Retouching Transformer with Limited Paired Data. ACM Multimedia 2024 [CCF A]
-
 
 - **[ACM MM 2024]** Yunfei Zhang, Jie Wang, Tianyi Chen, Yan Huang, **Cheng Liu**, Si Wu and Hau-San Wong: Facilitating Semi-supervised Diffusion-based Image Synthesis with Conditioning Information Fusion Flow. ACM Multimedia 2024 [CCF A]
 
@@ -164,6 +155,9 @@ Representative Works (Journal):
 
 Representative Works (Conference):
 ------
+
+- **[ACM MM 2024]**  Xibiao Wang (Student), Hang Gao (Student), **Cheng Liu#**, Si Wu, Zhiwen Yu and Hau-San Wong: Optimal Transport based Graph Matching for Partially View-Aligned Clustering. ACM MM 2024. [CCF A] **(Corresponding author)**
+ 
 - **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation. IJCAI 2024 (Under Review)  [CCF A] **(Co-corresponding author)**
   
 - **[AAAI]** Xue Wen, Lianxin Xie, Le Jiang, Tianyi Chen, Si Wu\#, **Cheng Liu**\#, Hau-San Wong. RetouchFormer: Semi-supervised High-quality Face Retouching Transformer with Prior-based Selective Self-attention. AAAI 2024 [CCF A] **(Co-corresponding author)**
@@ -173,6 +167,8 @@ Representative Works (Conference):
 - **[COLING]** Rui Li, **Cheng Liu**\#, Yu Tong and Jiang Dazhi. Feature Structure Matching for Multi-source Sentiment Analysis with Efficient Adaptive Tuning. COLING 2024 [CCF B] **(Co-corresponding author)**
 
 - **[ICONIP]** **Cheng Liu**, Wen-Ming Cao, Chutao Zheng, Hau-San Wong. Learning With Partially Shared Features in Multi-Task Learning. The 24th International Conference on Neural Information Processing ICONIP [CCF C]
+
+- **[ACM MM 2024]** Le Jiang, Yan Huang, Lianxin Xie, Wen Xue, **Cheng Liu**, Si Wu, Hau-San Wong: Hunting Blemishes: Language-guided High-fidelity Face Retouching Transformer with Limited Paired Data. ACM Multimedia 2024 [CCF A]
 
 - **[CVPR]** Lianxin Xie, Bingbing Zheng, Wen Xue, Le Jiang, **Cheng Liu**, Si Wu, Hau-San Wong. Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration. CVPR 2024 [CCF A]
 
