@@ -155,9 +155,9 @@ Representative Works (Conference):
 
 - **[ACM MM 2024]** Xibiao Wang, Hang Gao, Liang Peng, Xindian Wei, **Cheng Liu#**, Si Wu, Hau-San Wong: Contrastive Graph Distribution Alignment for Partially View-aligned Clustering. ACM MM 2024 [CCF A] **(Corresponding author)**
  
-- **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation. IJCAI 2024 (Under Review)  [CCF A] **(Co-corresponding author)**
+- **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation. IJCAI 2024 [CCF A] **(Co-corresponding author)**
   
-- **[AAAI]** Xue Wen, Lianxin Xie, Le Jiang, Tianyi Chen, Si Wu\#, **Cheng Liu**\#, Hau-San Wong. RetouchFormer: Semi-supervised High-quality Face Retouching Transformer with Prior-based Selective Self-attention. AAAI 2024 [CCF A] **(Co-corresponding author)**
+- **[AAAI]** Xue Wen, Lianxin Xie, Le Jiang, Tianyi Chen, Si Wu#, **Cheng Liu#**, Hau-San Wong. RetouchFormer: Semi-supervised High-quality Face Retouching Transformer with Prior-based Selective Self-attention. AAAI 2024 [CCF A] **(Co-corresponding author)**
 
 - **[IEEE ICME]** Junjie Liang (Student), Hang Gao (Student), Haojun Sun, Rui Li, and **Cheng Liu**\#. Reliable self-supervised information mining for deep subspace clustering. IEEE ICME 2022 [CCF B] **(Corresponding author)**
 
