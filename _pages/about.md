@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  *I am currently seeking a new faculty position ^_^*.
+Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. 
+He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
+#*I am currently seeking a new faculty position ^_^*.
 
 Work Experiences
 ----
@@ -49,7 +51,7 @@ Manuscript/Preprints:
 ------
 - **[IEEE TKDE]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Latent Structure-Aware View Recovery for Incomplete Multi-view Clustering. *IEEE Transactions on Knowledge and Data Engineering* (**Minor Revision**)  [JCR Q1] [CCF A]
 
-- **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Revision**)  [JCR Q1] [CCF B]
+- **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Minor Revision**)  [JCR Q1] [CCF B]
 
 - **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
