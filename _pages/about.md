@@ -49,7 +49,6 @@ Research Outputs (#indicate Corresponding author)
 
 Manuscript/Preprints:
 ------
-- **[IEEE TKDE]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Latent Structure-Aware View Recovery for Incomplete Multi-view Clustering. *IEEE Transactions on Knowledge and Data Engineering* (**Minor Revision**)  [JCR Q1] [CCF A]
 
 - **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Minor Revision**)  [JCR Q1] [CCF B]
 
@@ -73,6 +72,8 @@ Manuscript/Preprints:
 
 Representative Works (Journal):
 ------
+
+- **[IEEE TKDE]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Latent Structure-Aware View Recovery for Incomplete Multi-view Clustering. *IEEE Transactions on Knowledge and Data Engineering* (2024)  [JCR Q1] [CCF A]
 
 - **[IEEE TKDE]** **Cheng Liu**, Si Wu, Rui Li, Dazhi Jiang, Hau-San Wong: Self-Supervised Graph Completion for Incomplete Multi-View Clustering. *IEEE Transactions on Knowledge and Data Engineering* (2023) [JCR Q1] [CCF A]
 
