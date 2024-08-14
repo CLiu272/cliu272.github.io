@@ -9,7 +9,6 @@ redirect_from:
 
 Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. 
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
-*I am currently seeking a new faculty position ^_^*.
 
 Work Experiences
 ----
@@ -35,7 +34,7 @@ Research Grant: (主持项目5项，第一参与人2项)
 
 - **[广东省教育厅青年创新人才项目]** 结构化稀疏模型及其生物数据的应用, 广东省教育厅青年创新人才项目，5万， 主持
 
-- **[中国科学技术大学苏州高等研究院（横向）]** 基于组学数据方面的智能模型的快速实现应用开发服务， 中国科学技术大学苏州高等研究院（横向），10万， 主持
+- **[中国科学技术大学苏州高等研究院项目]** 基于组学数据方面的智能模型的快速实现应用开发服务， 中国科学技术大学苏州高等研究院（横向），10万， 主持
 
 - **[汕头大学卓越人才科研项目]**  基于正则化结构化稀疏模型及其医疗数据应用，汕头大学卓越人才科研启动基金，100万， 主持
 
