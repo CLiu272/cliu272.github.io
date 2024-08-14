@@ -44,7 +44,7 @@ Research Grant: (主持项目5项，第一参与人2项)
 
 Research Outputs (#indicate Corresponding author)
 ---
-**First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, AAAI-1，IJCAI-1，ACMMM-1， ICME-1, ICONIP-1, IEEE SMC-1)**
+**First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
 
 Manuscript/Preprints:
 ------
