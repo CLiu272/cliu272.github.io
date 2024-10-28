@@ -47,11 +47,7 @@ Research Outputs (#indicate Corresponding author)
 **First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
 
 Manuscript/Preprints:
-------
-
-- **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
-
-- **[IEEE ICME]** Adversarial Style Interpolation for High-fidelity Stroke-aware Chinese Character Image Synthesis. Jiaxin Li,  Xindian Wei, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
+------ 
 
 - **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Under Review) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
@@ -168,6 +164,8 @@ Representative Works (Conference):
 - **[ICONIP]** **Cheng Liu**, Wen-Ming Cao, Chutao Zheng, Hau-San Wong. Learning With Partially Shared Features in Multi-Task Learning. The 24th International Conference on Neural Information Processing ICONIP [CCF C]
 
 - **[ACM MM 2024]** Le Jiang, Yan Huang, Lianxin Xie, Wen Xue, **Cheng Liu**, Si Wu, Hau-San Wong: Hunting Blemishes: Language-guided High-fidelity Face Retouching Transformer with Limited Paired Data. ACM Multimedia 2024 [CCF A]
+  
+- **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
 - **[CVPR]** Lianxin Xie, Bingbing Zheng, Wen Xue, Le Jiang, **Cheng Liu**, Si Wu, Hau-San Wong. Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration. CVPR 2024 [CCF A]
 
