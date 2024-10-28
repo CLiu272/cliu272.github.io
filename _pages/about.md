@@ -49,8 +49,6 @@ Research Outputs (#indicate Corresponding author)
 Manuscript/Preprints:
 ------
 
-- **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Minor Revision**)  [JCR Q1] [CCF B]
-
 - **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 
 - **[IEEE ICME]** Adversarial Style Interpolation for High-fidelity Stroke-aware Chinese Character Image Synthesis. Jiaxin Li,  Xindian Wei, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
@@ -60,10 +58,8 @@ Manuscript/Preprints:
 
 - **[IEEE TCBB]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEE/ACM Transactions on Computational Biology and Bioinformatics (Under Review) [JCR Q2] [CCF-B] **(Corresponding author)**
 
-- **[BIB]**  Tianyi Chen, Xindian Wei,  Lianxin Xie, Yunfei Zhang, **Cheng Liu**, Wenjun Shen, Si Wu and Hau-San Wong: SELF-Former:Multi-scale Gene Filtration Transformer for Single-cell Spatial Reconstruction. Briefings in Bioinformatics (Under Review) [JCR Q1] [CCF-B]
 
-
-- **[IEEE TMM]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
+- **[IEEE TKDE]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
 
 - **[NN]** Two-step Graph Propagation for Incomplete Multi-view Clustering: Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che. Neural Networks. [JCR Q1] [CCF B]
 
@@ -73,6 +69,8 @@ Representative Works (Journal):
 ------
 
 - **[IEEE TKDE]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Latent Structure-Aware View Recovery for Incomplete Multi-view Clustering. *IEEE Transactions on Knowledge and Data Engineering* (2024)  [JCR Q1] [CCF A]
+  
+- **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (2024)  [JCR Q1] [CCF B]
 
 - **[IEEE TKDE]** **Cheng Liu**, Si Wu, Rui Li, Dazhi Jiang, Hau-San Wong: Self-Supervised Graph Completion for Incomplete Multi-View Clustering. *IEEE Transactions on Knowledge and Data Engineering* (2023) [JCR Q1] [CCF A]
 
@@ -119,6 +117,8 @@ Representative Works (Journal):
 - **[BMC Bioinformatics]** Yong Liang (*Supervisor*), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
 
 - **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
+
+- **[BIB]**  Tianyi Chen, Xindian Wei,  Lianxin Xie, Yunfei Zhang, **Cheng Liu**, Wenjun Shen, Si Wu and Hau-San Wong: SELF-Former:Multi-scale Gene Filtration Transformer for Single-cell Spatial Reconstruction. Briefings in Bioinformatics (2024) [JCR Q1] [CCF-B]
 
 - **[INS]** Chenglu Li, Hangjun Che, Man-Fai Leung, **Cheng Liu**, Zheng Yan: Robust multi-view non-negative matrix factorization with adaptive graph and diversity constraints. *Information Sciences* [CCF B][JCR Q1]
 
