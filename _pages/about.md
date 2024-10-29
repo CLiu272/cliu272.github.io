@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. 
+Dr. Cheng Liu is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University. 
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
 
 Work Experiences
@@ -49,7 +49,7 @@ Research Outputs (#indicate Corresponding author)
 Manuscript/Preprints:
 ------ 
 
-- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Under Review) [JCR Q2] [CCF-B] **(Co-corresponding author)**
+- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Revision) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
 
 - **[IEEE TCBB]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEE/ACM Transactions on Computational Biology and Bioinformatics (Under Review) [JCR Q2] [CCF-B] **(Corresponding author)**
