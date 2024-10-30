@@ -32,6 +32,8 @@ Research Grant: (主持项目5项，第一参与人2项)
 
 - **[Natural Science Foundation of Guangdong Province/广东省自然科学基金项目面上项目]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12) 自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **(PI)**
 
+- **[Natural Science Foundation of Guangdong Province/广东省自然科学基金项目面上项目]** 基于图分布对齐的多视图学习算法研究及其在不完备多组学癌症数据分析的应用, 广东省自然科学基金项目面上项目（已公示，2025-2028）,  10万， **(PI)**
+
 - **[广东省教育厅青年创新人才项目]** 结构化稀疏模型及其生物数据的应用, 广东省教育厅青年创新人才项目，5万， 主持
 
 - **[中国科学技术大学苏州高等研究院项目]** 基于组学数据方面的智能模型的快速实现应用开发服务， 中国科学技术大学苏州高等研究院（横向），10万， 主持
