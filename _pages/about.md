@@ -27,12 +27,12 @@ Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Syste
 
 Research Grant: (主持项目5项，第一参与人2项)
 ----
-- **[Natural Science Foundation of China/国家自然科学基金项目]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
+- **[国家自然科学基金项目]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **(PI)**
 
-- **[Natural Science Foundation of Guangdong Province/广东省自然科学基金项目面上项目]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12) 自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **(PI)**
+- **[广东省自然科学基金项目面上项目]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12) 自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **(PI)**
 
-- **[Natural Science Foundation of Guangdong Province/广东省自然科学基金项目面上项目]** 基于图分布对齐的多视图学习算法研究及其在不完备多组学癌症数据分析的应用, 广东省自然科学基金项目面上项目（已公示，2025-2028）,  10万， **(PI)**
+- **[广东省自然科学基金项目面上项目]** 基于图分布对齐的多视图学习算法研究及其在不完备多组学癌症数据分析的应用, 广东省自然科学基金项目面上项目（已公示，2025-2028）,  10万， **(PI)**
 
 - **[广东省教育厅青年创新人才项目]** 结构化稀疏模型及其生物数据的应用, 广东省教育厅青年创新人才项目，5万， 主持
 
@@ -40,9 +40,9 @@ Research Grant: (主持项目5项，第一参与人2项)
 
 - **[汕头大学卓越人才科研项目]**  基于正则化结构化稀疏模型及其医疗数据应用，汕头大学卓越人才科研启动基金，100万， 主持
 
-- **[Natural Science Foundation of China/国家自然科学基金项目]** 多网络视角学习增强的微生物和疾病复杂联系预测 (2024-2027)，50 万元, 国家自然科学基金面上项目，62372282，第一参与人
+- **[国家自然科学基金项目]** 多网络视角学习增强的微生物和疾病复杂联系预测 (2024-2027)，50 万元, 国家自然科学基金面上项目，62372282，第一参与人
 
-- **[Natural Science Foundation of China/广东省自然科学基金-青年提升项目]** 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
+- **[广东省自然科学基金-青年提升项目]** 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
 
 Research Outputs (#indicate Corresponding author)
 ---
