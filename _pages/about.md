@@ -88,16 +88,6 @@ Representative Works (Journal):
 
 - **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
 
-- **[IEEE TIP]** Jichang Li, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semi-Supervised Deep Coupled Ensemble Learning With Classification Landmark Exploration. *IEEE Transactions on Image Processing* (2020) [CCF A] [JCR Q1]
-
-- **[IEEE TIP]** Si Wu, Shufeng Wang, Robert Laganiere, **Cheng Liu**, Hau-San Wong, Yong Xu: Exploiting Target Data to Learn Deep Convolutional Networks for Scene-Adapted Human Detection. *IEEE Transactions on Image Processing* (2018) [CCF A] [JCR Q1]
-
-- **[IEEE TIP]** Haohong Zhou, Mohamed Azzam, Jian Zhong, **Cheng Liu**, Si Wu, Hau-San Wong: Knowledge Exchange Between Domain-Adversarial and Private Networks Improves Open Set Image Classification. *IEEE Transactions on Image Processing* (2021) [CCF A] [JCR Q1]
-
-- **[IEEE TKDE]** Zhiwen Yu, Zhongfan Zhang, Wenming Cao, **Cheng Liu**, CL Philip Chen, Hau-San Wong: GAN-based enhanced deep subspace clustering networks. *IEEE Transactions on Knowledge and Data Engineering* (2022) [CCF A] [JCR Q1]
-
-- **[IEEE TAI]** Geng Tu, Jintao Wen, **Cheng Liu**, Dazhi Jiang, Erik Cambria: Context-and sentiment-aware networks for emotion recognition in conversation. *IEEE Transactions on Artificial Intelligence*
-
 - **[PR]** **Cheng Liu**, Chutao Zheng, Sheng Qian, Si Wu and Hau-San Wong: Encoding Sparse and Competitive Structures among Tasks in Multi-Task Learning. *Pattern Recognition* (2019) [JCR Q1] [CCF B]
 
 - **[KBS]** **Cheng Liu**, Wenming Cao, Si Wu, Wenjun Shen, Dazhi Jiang, Zhiwen Yu, Hau-San Wong: Joint Subspace and Discriminative Learning for Self-Paced Domain Adaptation. *Knowledge Based System* (2020) [JCR Q1] [CCF C]
@@ -113,6 +103,16 @@ Representative Works (Journal):
 - **[ASOC]** Sijin Zhou, Dongmin Huang, **Cheng Liu**\#, Dazhi Jiang\#: Objectivity meets subjectivity: A subjective and objective feature fused neural network for emotion recognition. *Applied Soft Computing* (2024) [JCR Q1] **(Co-corresponding author)**
 
 - **[BMC Bioinformatics]** Yong Liang (*Supervisor*), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
+
+- **[IEEE TIP]** Jichang Li, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semi-Supervised Deep Coupled Ensemble Learning With Classification Landmark Exploration. *IEEE Transactions on Image Processing* (2020) [CCF A] [JCR Q1]
+
+- **[IEEE TIP]** Si Wu, Shufeng Wang, Robert Laganiere, **Cheng Liu**, Hau-San Wong, Yong Xu: Exploiting Target Data to Learn Deep Convolutional Networks for Scene-Adapted Human Detection. *IEEE Transactions on Image Processing* (2018) [CCF A] [JCR Q1]
+
+- **[IEEE TIP]** Haohong Zhou, Mohamed Azzam, Jian Zhong, **Cheng Liu**, Si Wu, Hau-San Wong: Knowledge Exchange Between Domain-Adversarial and Private Networks Improves Open Set Image Classification. *IEEE Transactions on Image Processing* (2021) [CCF A] [JCR Q1]
+
+- **[IEEE TKDE]** Zhiwen Yu, Zhongfan Zhang, Wenming Cao, **Cheng Liu**, CL Philip Chen, Hau-San Wong: GAN-based enhanced deep subspace clustering networks. *IEEE Transactions on Knowledge and Data Engineering* (2022) [CCF A] [JCR Q1]
+
+- **[IEEE TAI]** Geng Tu, Jintao Wen, **Cheng Liu**, Dazhi Jiang, Erik Cambria: Context-and sentiment-aware networks for emotion recognition in conversation. *IEEE Transactions on Artificial Intelligence*
 
 - **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
 
