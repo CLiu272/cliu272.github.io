@@ -86,7 +86,7 @@ Representative Works (Journal):
 
 - **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024) [CCF B] **(Corresponding author)** 
 
-- **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
+- **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu#**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
 
 - **[PR]** **Cheng Liu**, Chutao Zheng, Sheng Qian, Si Wu and Hau-San Wong: Encoding Sparse and Competitive Structures among Tasks in Multi-Task Learning. *Pattern Recognition* (2019) [JCR Q1] [CCF B]
 
@@ -96,11 +96,11 @@ Representative Works (Journal):
 
 - **[NEURO]** **Cheng Liu**, Sentao Chen, Lin Zheng, Dazhi Jiang: Adaptive Graph-Guided Co-Regularization for Clustered Multi-Task Learning. *Neurocomputing* (2024) [JCR Q1]
 
-- **[INS]** Jiaxin Li, Haohong Zhou, Si Wu\#, **Cheng Liu**\#, Hau-San Wong: Collaborative Learning-based Unknown-class Instance Identification for Open-set Domain Adaptation. *Information Science* (2023).  [JCR Q1] [CCF B] **(Co-corresponding author)**
+- **[INS]** Jiaxin Li, Haohong Zhou, Si Wu\#, **Cheng Liu#**, Hau-San Wong: Collaborative Learning-based Unknown-class Instance Identification for Open-set Domain Adaptation. *Information Science* (2023).  [JCR Q1] [CCF B] **(Co-corresponding author)**
 
-- **[CAIS]** Zhen Zheng (Student), Rui Li, and **Cheng Liu**\#: Learning Robust Class-level Alignment for Cross Domain Medical Image Analysis via Dual Consistency Regularizations. *Complex \& Intelligent System* (2023) [JCR Q1] **(Corresponding author)** 
+- **[CAIS]** Zhen Zheng (Student), Rui Li, and **Cheng Liu#**: Learning Robust Class-level Alignment for Cross Domain Medical Image Analysis via Dual Consistency Regularizations. *Complex \& Intelligent System* (2023) [JCR Q1] **(Corresponding author)** 
 
-- **[ASOC]** Sijin Zhou, Dongmin Huang, **Cheng Liu**\#, Dazhi Jiang\#: Objectivity meets subjectivity: A subjective and objective feature fused neural network for emotion recognition. *Applied Soft Computing* (2024) [JCR Q1] **(Co-corresponding author)**
+- **[ASOC]** Sijin Zhou, Dongmin Huang, **Cheng Liu#**, Dazhi Jiang\#: Objectivity meets subjectivity: A subjective and objective feature fused neural network for emotion recognition. *Applied Soft Computing* (2024) [JCR Q1] **(Co-corresponding author)**
 
 - **[BMC Bioinformatics]** Yong Liang (*Supervisor*), **Cheng Liu**, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: Sparse logistic regression with an L1/2 penalty for gene selection in cancer classification. *BMC Bioinformatics* (2013) [CCF C] [JCR Q1] (Thesis of the master degree; Citation > 180)
 
