@@ -84,9 +84,9 @@ Representative Works (Journal):
 
 - **[IEEE TCBB]** **Cheng Liu**, Hau-San Wong: Structured Penalized Logistic Regression for Gene Selection in Gene Expression Data Analysis. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2017) [JCR Q2] [CCF B]
 
-- **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024) [CCF B] **(Corresponding author)** 
+- **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, **Cheng Liu#** and Si Wu#: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2024) [CCF B] **(Corresponding author)** 
 
-- **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu, **Cheng Liu#**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
+- **[IEEE TCYB]** Jian Zhong, Xiangping Zeng, Wenming Cao, Si Wu#, **Cheng Liu#**, Zhiwen Yu, Hau-San Wong: Semisupervised Multiple Choice Learning for Ensemble Classification. *IEEE Transactions on Cybernetics* **(Co-corresponding author)** [JCR Q1] [CCF B]
 
 - **[PR]** **Cheng Liu**, Chutao Zheng, Sheng Qian, Si Wu and Hau-San Wong: Encoding Sparse and Competitive Structures among Tasks in Multi-Task Learning. *Pattern Recognition* (2019) [JCR Q1] [CCF B]
 
@@ -133,6 +133,8 @@ Representative Works (Journal):
 - **[KBS]** Rui Li, **Cheng Liu**, Dazhi Jiang: Efficient dynamic feature adaptation for cross language sentiment analysis with biased adversarial training. *Knowledge-Based Systems* [CCF C] [JCR Q1]
 
 - **[KBS]** Cluster-based Adversarial Decision Boundary for domain-adaptive open set recognition. Jian Zhong, Qianfen Jiao, Si Wu, **Cheng Liu**, Hau-San Wong. *Knowledge-Based Systems* 2024. [JCR Q1] [CCF C]
+  
+- **[KBS]**  Diverse Semantic Image Synthesis with various conditioning modalities. Chaoyue Wu, Rui Li, **Cheng Liu**, Si Wu, Hau-San Wong. *Knowledge-Based Systems* 2024. [JCR Q1] [CCF C] 
 
 - **[NEURO]** Chutao Zheng, **Cheng Liu**, Hau-San Wong: Corpus-based topic diffusion for short text clustering. *Neurocomputing* (2018) [CCF C] [JCR Q1]
 
