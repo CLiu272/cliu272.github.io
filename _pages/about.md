@@ -25,7 +25,7 @@ Services
 Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE/ACM Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023; ICME 2023, 2024.
 
 
-Research Grant: (主持项目5项，第一参与人2项)
+Research Grant: (主持项目6项，第一参与人2项)
 ----
 - **[国家自然科学基金项目]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **主持(PI)**
@@ -59,7 +59,6 @@ Manuscript/Preprints:
 
 - **[IEEE TKDE]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
 
-- **[NN]** Two-step Graph Propagation for Incomplete Multi-view Clustering: Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che. Neural Networks. [JCR Q1] [CCF B]
 
 - **[manuscript]** Yunfei Zhang, Jie Wang, Tianyi Chen, Yan Huang, **Cheng Liu**, Si Wu and Hau-San Wong: Facilitating Semi-supervised Diffusion-based Image Synthesis with Conditioning Information Fusion Flow.   
 
@@ -117,6 +116,8 @@ Representative Works (Journal):
 - **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
 
 - **[BIB]**  Tianyi Chen, Xindian Wei,  Lianxin Xie, Yunfei Zhang, **Cheng Liu**, Wenjun Shen, Si Wu and Hau-San Wong: SELF-Former:Multi-scale Gene Filtration Transformer for Single-cell Spatial Reconstruction. Briefings in Bioinformatics (2024) [JCR Q1] [CCF-B]
+
+- **[NN]** Two-step Graph Propagation for Incomplete Multi-view Clustering: Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che. Neural Networks. [JCR Q1] [CCF B]
 
 - **[INS]** Chenglu Li, Hangjun Che, Man-Fai Leung, **Cheng Liu**, Zheng Yan: Robust multi-view non-negative matrix factorization with adaptive graph and diversity constraints. *Information Sciences* [CCF B][JCR Q1]
 
