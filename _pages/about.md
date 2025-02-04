@@ -53,14 +53,11 @@ Manuscript/Preprints:
 
 - **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Revision) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
+- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEEJournal of Biomedical and Health Informatics (Revision) [JCR Q1] [CCF-C] **(Corresponding author)**
 
-- **[IEEE TCBB]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEE/ACM Transactions on Computational Biology and Bioinformatics (Under Review) [JCR Q2] [CCF-B] **(Corresponding author)**
+- **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* (Under review)  [JCR Q1] [CCF A]
 
-
-- **[IEEE TKDE]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. IEEE Transactions on Multimedia (Under Review)  [CCF B]
-
-
-- **[manuscript]** Yunfei Zhang, Jie Wang, Tianyi Chen, Yan Huang, **Cheng Liu**, Si Wu and Hau-San Wong: Facilitating Semi-supervised Diffusion-based Image Synthesis with Conditioning Information Fusion Flow.   
+- **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognize (Under Review)  [CCF B]   
 
 Representative Works (Journal):
 ------
