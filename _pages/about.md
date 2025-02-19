@@ -46,12 +46,10 @@ Research Grant: (主持项目6项，第一参与人2项)
 
 Research Outputs (#indicate Corresponding author)
 ---
-**First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
+**First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
 
 Manuscript/Preprints:
 ------ 
-
-- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (Revision) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
 - **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEEJournal of Biomedical and Health Informatics (Revision) [JCR Q1] [CCF-C] **(Corresponding author)**
 
@@ -91,6 +89,8 @@ Representative Works (Journal):
 - **[ASOC]** **Cheng Liu**, Yong Liang, Xin-Ze Luan, Kwong-Sak Leung, Tak-Ming Chan, Zongben Xu, Hai Zhang: The L1/2 regularization method for variable selection in the Cox model. *Applied Soft Computing* (2014) [JCR Q1]
 
 - **[NEURO]** **Cheng Liu**, Sentao Chen, Lin Zheng, Dazhi Jiang: Adaptive Graph-Guided Co-Regularization for Clustered Multi-Task Learning. *Neurocomputing* (2024) [JCR Q1]
+  
+- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (2025) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
 - **[INS]** Jiaxin Li, Haohong Zhou, Si Wu\#, **Cheng Liu#**, Hau-San Wong: Collaborative Learning-based Unknown-class Instance Identification for Open-set Domain Adaptation. *Information Science* (2023).  [JCR Q1] [CCF B] **(Co-corresponding author)**
 
