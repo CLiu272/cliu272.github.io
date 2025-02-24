@@ -51,11 +51,14 @@ Research Outputs (#indicate Corresponding author)
 Manuscript/Preprints:
 ------ 
 
-- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEEJournal of Biomedical and Health Informatics (Revision) [JCR Q1] [CCF-C] **(Corresponding author)**
+- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEE Journal of Biomedical and Health Informatics (Revision) [JCR Q1] [CCF-C] **(Corresponding author)**
 
 - **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* (Under review)  [JCR Q1] [CCF A] **(Corresponding author)**
 
-- **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognize (Under Review)  [CCF B]   
+- **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency
+  Major Revision)  [JCR Q1] [CCF B]
+
+- **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognition (Under Review)  [CCF B]   
 
 Representative Works (Journal):
 ------
