@@ -156,6 +156,8 @@ Representative Works (Journal):
 Representative Works (Conference):
 ------
 
+- **[IEEE ICME]** Yixuan Ye, Yang Zhang, Liang Peng, **Cheng Liu#**, Si Wu, Hau-San Wong: Cross-View Neighborhood Contrastive Multi-View Clustering with View Mixup Feature Learning. IEEE ICME 2025  [CCF B] **(通讯作者，指导老师)**
+
 - **[ACM MM 2024]** Xibiao Wang, Hang Gao, Liang Peng, Xindian Wei, **Cheng Liu#**, Si Wu, Hau-San Wong: Contrastive Graph Distribution Alignment for Partially View-aligned Clustering. ACM MM 2024 [CCF A] **(Corresponding author)**
  
 - **[IJCAI]** Lu Lin, Wen Xue, Tianyi Chen, **Cheng Liu#**, Si Wu#, Hau-San Wong: SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation. IJCAI 2024 [CCF A] **(Co-corresponding author)**
