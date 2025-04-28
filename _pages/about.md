@@ -56,7 +56,7 @@ Manuscript:
 - **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* **(Revision)**  [JCR Q1] [CCF A] **(Corresponding author)**
 
 - **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency
-  Major Revision)  [JCR Q1] [CCF B]
+  **(Minor Revision)**  [JCR Q1] [CCF B]
 
 - **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognition (Under Review)  [CCF B]   
 
