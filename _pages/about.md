@@ -48,12 +48,12 @@ Research Outputs (#indicate Corresponding author)
 ---
 **First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
 
-Manuscript/Preprints:
+Manuscript:
 ------ 
 
-- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  IEEE Journal of Biomedical and Health Informatics (Revision) [JCR Q1] [CCF-C] **(Corresponding author)**
+- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  *IEEE Journal of Biomedical and Health Informatics* **(Revision)** [JCR Q1] [CCF-C] **(Corresponding author)**
 
-- **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* (Under review)  [JCR Q1] [CCF A] **(Corresponding author)**
+- **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* **(Revision)**  [JCR Q1] [CCF A] **(Corresponding author)**
 
 - **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency
   Major Revision)  [JCR Q1] [CCF B]
