@@ -55,6 +55,8 @@ Manuscript:
 
 - **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* **(Revision)**  [JCR Q1] [CCF A] **(Corresponding author)**
 
+- **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Under Review)**  [JCR Q2] [CCF C] **(Corresponding author)**
+
 - **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency
   **(Minor Revision)**  [JCR Q1] [CCF B]
 
