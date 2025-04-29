@@ -51,14 +51,13 @@ Research Outputs (#indicate Corresponding author)
 Manuscript:
 ------ 
 
-- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  *IEEE Journal of Biomedical and Health Informatics* **(Revision)** [JCR Q1] [CCF-C] **(Corresponding author)**
+- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu#**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  *IEEE Journal of Biomedical and Health Informatics* **(Revision)** [JCR Q1] [CCF-C] **(Corresponding author)**
 
-- **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* **(Revision)**  [JCR Q1] [CCF A] **(Corresponding author)**
+- **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu#**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* **(Revision)**  [JCR Q1] [CCF A] **(Corresponding author)**
 
-- **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Under Review)**  [JCR Q2] [CCF C] **(Corresponding author)**
+- **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu#**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Under Review)**  [JCR Q2] [CCF C] **(Corresponding author)**
 
-- **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency
-  **(Minor Revision)**  [JCR Q1] [CCF B]
+- **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency. **(Minor Revision)**  [JCR Q1] [CCF B]
 
 - **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognition (Under Review)  [CCF B]   
 
@@ -95,7 +94,7 @@ Representative Works (Journal):
 
 - **[NEURO]** **Cheng Liu**, Sentao Chen, Lin Zheng, Dazhi Jiang: Adaptive Graph-Guided Co-Regularization for Clustered Multi-Task Learning. *Neurocomputing* (2024) [JCR Q1]
   
-- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (2025) [JCR Q2] [CCF-B] **(Co-corresponding author)**
+- **[Bioinformatics]**  Xindian Wei, Tianyi Chen, **Cheng Liu#**, Wenjun Shen, Si Wu, Hau-San Wong: COME: Constrative Mapping Learning for Spatial Reconstruction of scRNA-seq Data. (2025) [JCR Q2] [CCF-B] **(Co-corresponding author)**
 
 - **[INS]** Jiaxin Li, Haohong Zhou, Si Wu\#, **Cheng Liu#**, Hau-San Wong: Collaborative Learning-based Unknown-class Instance Identification for Open-set Domain Adaptation. *Information Science* (2023).  [JCR Q1] [CCF B] **(Co-corresponding author)**
 
@@ -158,7 +157,7 @@ Representative Works (Journal):
 Representative Works (Conference):
 ------
 
-- **[IEEE ICME]** Yixuan Ye, Yang Zhang, Liang Peng, **Cheng Liu#**, Si Wu, Hau-San Wong: Cross-View Neighborhood Contrastive Multi-View Clustering with View Mixup Feature Learning. IEEE ICME 2025  [CCF B] **(通讯作者，指导老师)**
+- **[IEEE ICME]** Yixuan Ye, Yang Zhang, Liang Peng, **Cheng Liu#**, Si Wu, Hau-San Wong: Cross-View Neighborhood Contrastive Multi-View Clustering with View Mixup Feature Learning. IEEE ICME 2025  [CCF B] **(Corresponding author)**
 
 - **[ACM MM 2024]** Xibiao Wang, Hang Gao, Liang Peng, Xindian Wei, **Cheng Liu#**, Si Wu, Hau-San Wong: Contrastive Graph Distribution Alignment for Partially View-aligned Clustering. ACM MM 2024 [CCF A] **(Corresponding author)**
  
