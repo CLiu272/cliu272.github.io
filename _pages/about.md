@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University. 
+Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at Shantou University. 
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
 
 Work Experiences
@@ -22,7 +22,7 @@ Bioinformatics: Multi-omic cancer subtyping, Single cell clustering, Survival an
 
 Services
 ----
-Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE/ACM Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023; ICME 2023, 2024.
+Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE/ACM Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023; ICME 2023, 2024， 2025; KDD 2025; ACMMM 2025.
 
 
 Research Grant: (主持项目6项，第一参与人2项)
@@ -44,6 +44,21 @@ Research Grant: (主持项目6项，第一参与人2项)
 
 - **[广东省自然科学基金-青年提升项目]** 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
 
+本科竞赛指导
+----
+- 2024 中国机器人及人工智能大赛全国总决赛~~~  三等奖
+- 2024 广东省算法调优竞赛项目~~~  三等奖
+- 2024 中国创意挑战大赛(国赛普通高等院校赛道)~~ 二等奖
+- 2024 全国大学生数学建模大赛~~ 二等奖
+- 第十四届“挑战杯”广东大学生创业计划竞赛~~~ 铜奖
+- 2024 年广东省大学生计算机设计大赛 ~~~ 三等奖
+- 第12届 “泰迪杯”数据挖掘挑战赛~~~ 二等奖
+- 第二十六届中国机器人及人工智能大赛广东省选拔赛~~~ 二等奖
+- 第六届全球校园人工智能算法精英大赛广东赛区省赛~~~ 二等奖 
+- 中国国际大学生创新大赛2024-广东省分赛~~~ 铜奖
+- 第六届全球校园人工智能算法精英大赛全国总决赛~~~ 优秀指导老师
+
+
 Research Outputs (#indicate Corresponding author)
 ---
 **First author/Corresponding author: (IEEE TKDE-2，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
@@ -56,8 +71,6 @@ Manuscript:
 - **[IEEE TKDE]** Liang Peng, Yixuan Ye, **Cheng Liu#**, Hangjun Che, Si Wu and Hau-San Wong: Trustworthy Neighborhoods Mining: Homophily-Aware Neutral Contrastive Learning for Graph Clustering. *IEEE Transactions on Knowledge and Data Engineering* **(Revision)**  [JCR Q1] [CCF A] **(Corresponding author)**
 
 - **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu#**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Under Review)**  [JCR Q2] [CCF C] **(Corresponding author)**
-
-- **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency. **(Minor Revision)**  [JCR Q1] [CCF B]
 
 - **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognition (Under Review)  [CCF B]   
 
@@ -109,6 +122,8 @@ Representative Works (Journal):
 - **[IEEE TIP]** Si Wu, Shufeng Wang, Robert Laganiere, **Cheng Liu**, Hau-San Wong, Yong Xu: Exploiting Target Data to Learn Deep Convolutional Networks for Scene-Adapted Human Detection. *IEEE Transactions on Image Processing* (2018) [CCF A] [JCR Q1]
 
 - **[IEEE TIP]** Haohong Zhou, Mohamed Azzam, Jian Zhong, **Cheng Liu**, Si Wu, Hau-San Wong: Knowledge Exchange Between Domain-Adversarial and Private Networks Improves Open Set Image Classification. *IEEE Transactions on Image Processing* (2021) [CCF A] [JCR Q1]
+
+- **[IEEE TCSVT]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: A Novel Approach for Effective Partially View-Aligned Clustering with Triple-Consistency. IEEE Transactions on Circuits and Systems for Video Technology. 2025. [JCR Q1] [CCF B]
 
 - **[IEEE TKDE]** Zhiwen Yu, Zhongfan Zhang, Wenming Cao, **Cheng Liu**, CL Philip Chen, Hau-San Wong: GAN-based enhanced deep subspace clustering networks. *IEEE Transactions on Knowledge and Data Engineering* (2022) [CCF A] [JCR Q1]
 
