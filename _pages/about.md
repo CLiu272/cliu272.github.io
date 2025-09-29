@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu (IEEE Senior Member) is currently a Lecturer in the Department of Computer Science at Shantou University. 
+Dr. Cheng Liu (IEEE Senior Member) is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University and will soon join the College of Computer Science and Technology at Huaqiao University as a Research Professor (研究员).
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
 
 Work Experiences
