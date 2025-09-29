@@ -72,7 +72,7 @@ Manuscript:
 
 - **[IEEE TCSVT]** Liang Peng, Yixuan Ye, **Cheng Liu#**, Hangjun Che, Fei Wang, Zhiwen Yu, Si Wu and Hau-San Wong: SMART: Semantic Matching Contrastive Learning for Partially View-Aligned Clustering. *IEEE Transactions on Circuits and Systems for Video Technology* **(Revision)**  [JCR Q1] [CCF B] **(Corresponding author)**
 
-- **[IEEE TCBB]** Yixuan Ye, Jiawen Sun, Jiajun Xian, Dan Yang, Wenjun Shen, **Cheng Liu#**: SEAL: Semantic-Aware Contrastive Learning for scRNA-seq clustering. *IEEE Transactions on Computational Biology and Bioinformatics* **(Under Review)**  [JCR Q1] [CCF B] **(Corresponding author)**
+- **[IEEE TCBB]** Yixuan Ye, Jiawen Sun, Jiajun Xian, Dan Yang, Wenjun Shen, **Cheng Liu#**: SEAL: Semantic-Aware Contrastive Learning for scRNA-seq clustering. *IEEE Transactions on Computational Biology and Bioinformatics* **(Revision)**  [JCR Q1] [CCF B] **(Corresponding author)**
 
 - **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu#**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Revision)**  [JCR Q2] [CCF C] **(Corresponding author)**
 
