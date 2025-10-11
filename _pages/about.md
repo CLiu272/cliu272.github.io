@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu (IEEE Senior Member) is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University and will soon join the College of Computer Science and Technology at Huaqiao University as a Research Professor (研究员).
+Dr. Cheng Liu (IEEE Senior Member) is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University and will soon join the College of Computer Science and Technology at Huaqiao University as a Research Professor (特聘研究员).
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
 
 Work Experiences
 ----
 Lecturer, Department of Computer Science,  Shantou University, 2018 - Now
+
     
 Research Areas
 ----
@@ -46,17 +47,17 @@ Research Grant: (主持项目6项，第一参与人2项)
 
 本科竞赛指导
 ----
-- 2024 中国机器人及人工智能大赛全国总决赛~~~  三等奖
-- 2024 广东省算法调优竞赛项目~~~  三等奖
-- 2024 中国创意挑战大赛(国赛普通高等院校赛道)~~ 二等奖
-- 2024 全国大学生数学建模大赛~~ 二等奖
-- 第十四届“挑战杯”广东大学生创业计划竞赛~~~ 铜奖
-- 2024 年广东省大学生计算机设计大赛 ~~~ 三等奖
-- 第12届 “泰迪杯”数据挖掘挑战赛~~~ 二等奖
-- 第二十六届中国机器人及人工智能大赛广东省选拔赛~~~ 二等奖
-- 第六届全球校园人工智能算法精英大赛广东赛区省赛~~~ 二等奖 
-- 中国国际大学生创新大赛2024-广东省分赛~~~ 铜奖
-- 第六届全球校园人工智能算法精英大赛全国总决赛~~~ 优秀指导老师
+- 2024 中国机器人及人工智能大赛全国总决赛  三等奖
+- 2024 广东省算法调优竞赛项目  三等奖
+- 2024 中国创意挑战大赛(国赛普通高等院校赛道) 二等奖
+- 2024 全国大学生数学建模大赛 二等奖
+- 第十四届“挑战杯”广东大学生创业计划竞赛 铜奖
+- 2024 年广东省大学生计算机设计大赛  三等奖
+- 第12届 “泰迪杯”数据挖掘挑战赛 二等奖
+- 第二十六届中国机器人及人工智能大赛广东省选拔赛 二等奖
+- 第六届全球校园人工智能算法精英大赛广东赛区省赛 二等奖 
+- 中国国际大学生创新大赛2024- 广东省分赛 铜奖
+- 第六届全球校园人工智能算法精英大赛全国总决赛 优秀指导老师
 
 
 Research Outputs (#indicate Corresponding author)
@@ -211,6 +212,7 @@ Representative Works (Conference):
 - **[IEEE SMC]** Chutao Zheng, **Cheng Liu**, Hau-San Wong. Iterative Term Weighting for Short Text Data. IEEE International Conference on Systems, Man, and Cybernetics. IEEE, 2015: 1687-1692. **(Nominee of Best Paper Award)** (CCF C)
   
 - **[IEEE SMC]** Hang Gao (Student), Yunshan Li (Student) and **Cheng Liu**\#. Progressive Deep Subspace Clustering based on Sample Reliability. IEEE SMC 2022 [CCF C] **(Corresponding author)** 
+
 
 
 
