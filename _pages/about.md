@@ -12,7 +12,8 @@ He received the Ph.D. degree from City University of Hong Kong under the supervi
 
 Work Experiences
 ----
-Lecturer, Department of Computer Science,  Shantou University, 2018 - Now
+Lecturer (讲师), Department of Computer Science,  Shantou University, 2018 - 2025.
+Research Professor (研究员), College of Computer Science and Technology,  Huaqiao University, 2025 - now. 
 
     
 Research Areas
@@ -62,7 +63,7 @@ Research Grant: (主持项目6项，第一参与人2项)
 
 Research Outputs (#indicate Corresponding author)
 ---
-**First author/Corresponding author: (IEEE TKDE-3，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-1, ICONIP-1, IEEE SMC-1)**
+**First author/Corresponding author: (IEEE TKDE-3，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TBME-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-1，IJCAI-1，ACMMM-1，COLING-1, ICME-2, ICONIP-1, IEEE SMC-1)**
 
 Manuscript:
 ------ 
