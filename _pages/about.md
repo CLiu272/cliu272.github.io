@@ -12,8 +12,9 @@ He received the Ph.D. degree from City University of Hong Kong under the supervi
 
 Work Experiences
 ----
-Lecturer (讲师), Department of Computer Science,  Shantou University, 2018 - 2025.
-Research Professor (研究员), College of Computer Science and Technology,  Huaqiao University, 2025 - now. 
+Lecturer (讲师),  Department of Computer Science,  Shantou University, 2018 - 2025.
+
+Research Professor (研究员),  College of Computer Science and Technology,  Huaqiao University, 2025 - now. 
 
     
 Research Areas
