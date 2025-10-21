@@ -12,16 +12,16 @@ He received the Ph.D. degree from City University of Hong Kong under the supervi
 
 Work Experiences
 ----
-Lecturer (讲师),  Department of Computer Science,  Shantou University, 2018 - 2025.
+- Lecturer (讲师),  Department of Computer Science,  Shantou University, 2018 - 2025.
 
-Research Professor (研究员),  College of Computer Science and Technology,  Huaqiao University, 2025 - now. 
+- Research Professor (研究员),  College of Computer Science and Technology,  Huaqiao University, 2025 - now. 
 
     
 Research Areas
 ----
-Machine Learning: Multi-view clustering, Multi-task learning.
+- Machine Learning: Multi-view clustering, Multi-task learning.
 
-Bioinformatics: Multi-omic cancer subtyping, Single cell clustering, Survival analysis modeling.
+- Bioinformatics: Multi-omic cancer subtyping, Single cell clustering, Survival analysis modeling.
 
 Services
 ----
