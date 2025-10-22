@@ -140,9 +140,11 @@ Representative Works (Journal):
 
 - **[BIB]**  Tianyi Chen, Xindian Wei,  Lianxin Xie, Yunfei Zhang, **Cheng Liu**, Wenjun Shen, Si Wu and Hau-San Wong: SELF-Former:Multi-scale Gene Filtration Transformer for Single-cell Spatial Reconstruction. Briefings in Bioinformatics (2024) [JCR Q1] [CCF-B]
 
-- **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognition (2025)  [CCF B] 
+- **[PR]**  Hang Gao, **Cheng Liu**, Wei Du, Ying Li and Gaoyang Li: Multi-level Cross-view Feature Embedding for Partial View-aligned Clustering. Pattern Recognition (2025)  [CCF B]
+  
+- **[NN]** Hang Gao, Zuosong Cai, Tao Liang, **Cheng Liu**, Ying Li, You Zhou, Wei Du: Cross-View Discrepancy-Driven Dynamic Weighting for Missing View Completion in Incomplete Multi-View Clustering.  Neural Networks. [JCR Q1] [CCF B]
 
-- **[NN]** Two-step Graph Propagation for Incomplete Multi-view Clustering: Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che. Neural Networks. [JCR Q1] [CCF B]
+- **[NN]**  Xiao Zhang, Xinyu Pu, **Cheng Liu**, Jun Qin, Hangjun Che: Two-step Graph Propagation for Incomplete Multi-view Clustering. Neural Networks. [JCR Q1] [CCF B]
 
 - **[INS]** Chenglu Li, Hangjun Che, Man-Fai Leung, **Cheng Liu**, Zheng Yan: Robust multi-view non-negative matrix factorization with adaptive graph and diversity constraints. *Information Sciences* [CCF B][JCR Q1]
 
