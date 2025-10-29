@@ -77,7 +77,9 @@ Manuscript:
 
 - **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu#**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Revision)**  [JCR Q2] [CCF C] **(Corresponding author)**
 
-- **[NN]** Jiongzhi Qiu, Yixuan Ye, Jiajun Xian, Dan Yang, Hangjun Che, **Cheng Liu**: Self-Supervised Semantic Graph Propagation for Multi-View Clustering. **(Under Review)** Neural Networks. [JCR Q1] [CCF B] **(Corresponding author)**
+- **[NN]** Jiongzhi Qiu, Yixuan Ye, Jiajun Xian, Dan Yang, Hangjun Che, **Cheng Liu**: Self-Supervised Semantic Graph Propagation for Multi-View Clustering.  Neural Networks. [JCR Q1] [CCF B] **(Under Review)** **(Corresponding author)**
+
+- **[IEEE TSMC]** **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Bridging Kernelized Representation and Wasserstein Graph Metric for Multi-View Clustering. *IEEE Transactions on Systems, Man and Cybernetics: Systems* [JCR Q1] [CCF B] **(Under Review)**
 
   
 
