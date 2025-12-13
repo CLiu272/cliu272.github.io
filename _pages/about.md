@@ -69,11 +69,7 @@ Research Outputs (#indicate Corresponding author)
 Manuscript:
 ------ 
 
-- **[IEEE JBHI]**  Baoyuan Zheng, Hang Gao, Xibiao Wang, **Cheng Liu#**: Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  *IEEE Journal of Biomedical and Health Informatics* **(Revision)** [JCR Q1] [CCF-C] **(Corresponding author)**
-
 - **[IEEE TCBB]** Yixuan Ye, Jiawen Sun, Jiajun Xian, Dan Yang, Wenjun Shen, **Cheng Liu#**: SEAL: Semantic-Aware Contrastive Learning for scRNA-seq clustering. *IEEE Transactions on Computational Biology and Bioinformatics* **(Revision)**  [JCR Q1] [CCF B] **(Corresponding author)**
-
-- **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu#**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics* **(Revision)**  [JCR Q2] [CCF C] **(Corresponding author)**
 
 - **[NN]** Jiongzhi Qiu, Yixuan Ye, Jiajun Xian, Dan Yang, Hangjun Che, **Cheng Liu**: Self-Supervised Semantic Graph Propagation for Multi-View Clustering.  Neural Networks. [JCR Q1] [CCF B] **(Under Review)** **(Corresponding author)**
 
@@ -83,6 +79,8 @@ Manuscript:
 
 Representative Works (Journal):
 ------
+
+- **[IEEE JBHI]**  **Cheng Liu**, Baoyuan Zheng, Hang Gao, Xibiao Wang, Fei Wang, Wenjun Shen, Si Wu : Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  *IEEE Journal of Biomedical and Health Informatics* 2025. [JCR Q1] [CCF-C] 
 
 - **[IEEE TCSVT]** Liang Peng, Yixuan Ye, **Cheng Liu#**, Hangjun Che, Fei Wang, Zhiwen Yu, Si Wu and Hau-San Wong: SMART: Semantic Matching Contrastive Learning for Partially View-Aligned Clustering. *IEEE Transactions on Circuits and Systems for Video Technology* (2025)  [JCR Q1] [CCF B] **(Corresponding author)**
 
@@ -141,6 +139,8 @@ Representative Works (Journal):
 - **[IEEE TAI]** Geng Tu, Jintao Wen, **Cheng Liu**, Dazhi Jiang, Erik Cambria: Context-and sentiment-aware networks for emotion recognition in conversation. *IEEE Transactions on Artificial Intelligence*
 
 - **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
+
+- **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics*   [JCR Q2] [CCF C].
 
 - **[BIB]**  Tianyi Chen, Xindian Wei,  Lianxin Xie, Yunfei Zhang, **Cheng Liu**, Wenjun Shen, Si Wu and Hau-San Wong: SELF-Former:Multi-scale Gene Filtration Transformer for Single-cell Spatial Reconstruction. Briefings in Bioinformatics (2024) [JCR Q1] [CCF-B]
 
