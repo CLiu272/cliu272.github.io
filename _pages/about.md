@@ -138,6 +138,12 @@ Representative Works (Journal):
 
 - **[IEEE TAI]** Geng Tu, Jintao Wen, **Cheng Liu**, Dazhi Jiang, Erik Cambria: Context-and sentiment-aware networks for emotion recognition in conversation. *IEEE Transactions on Artificial Intelligence*
 
+- **[IEEE TCBB]** Yingqing Lin, Zhihui He, **Cheng Liu**, Dazhi Jiang: ICE: A Driver Genes Identification Method With Improved Cross-Entropy Measure. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2025) [CCF B]
+
+- **[IEEE TSPN]** Xuanhao Yang, Hangjun Che, Man-Fai Leung, **Cheng Liu**, Shiping Wen: Auto-weighted multi-view deep non-negative matrix factorization with multi-kernel learning. *IEEE Transactions on Signal and Information Processing over Networks* (2025)
+
+- **[IEEE TCBB]** Hangjun Che, Wei Guo, Man-Fai Leung, Yuting Cao, **Cheng Liu**: Robust diverse multi-view learning for cancer subtyping. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (2025) [CCF B]
+
 - **[Bioinformatics]** Multi-scale topology and position feature learning and relationship-aware graph reasoning for prediction of drug-related microbes. Ping Xuan, Jing Gu, Hui Cui, Shuai Wang, Nakaguchi Toshiya, **Cheng Liu**, Tiangang Zhang *Bioinformatics* 2024. [JCR Q2] [CCF B]
 
 - **[BMC Bioinformatics]** Xianyong Zhou, Xindian Wei, **Cheng Liu**, Ping Xuan, Wenjun Shen, Si Wu and Hau-San Wong: Robust Subspace Structure Discovery for Cell Type Identification in scRNA-seq Data  *BMC bioinformatics*   [JCR Q2] [CCF C].
@@ -202,6 +208,8 @@ Representative Works (Conference):
 - **[COLING]** Rui Li, **Cheng Liu**\#, Yu Tong and Jiang Dazhi. Feature Structure Matching for Multi-source Sentiment Analysis with Efficient Adaptive Tuning. COLING 2024 [CCF B] **(Co-corresponding author)**
 
 - **[ICONIP]** **Cheng Liu**, Wen-Ming Cao, Chutao Zheng, Hau-San Wong. Learning With Partially Shared Features in Multi-Task Learning. The 24th International Conference on Neural Information Processing ICONIP [CCF C]
+
+- **[IEEE ICASSP]** Rui Li, Tao Yang, Cheng Liu, Dazhi Jiang, Hau-San Wong, Si Wu: Prompt-augmented Feature with Cross-domain Contrastive Learning for Efficient Multi-domain Sentiment Analysis. ICASSP 2025 [CCF-B]
 
 - **[ACM MM 2024]** Le Jiang, Yan Huang, Lianxin Xie, Wen Xue, **Cheng Liu**, Si Wu, Hau-San Wong: Hunting Blemishes: Language-guided High-fidelity Face Retouching Transformer with Limited Paired Data. ACM Multimedia 2024 [CCF A]
   
