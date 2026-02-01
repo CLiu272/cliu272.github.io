@@ -193,7 +193,7 @@ Representative Works (Journal):
 Representative Works (Conference):
 ------
 
-- **[AAAI]** Liang Peng, Haopeng Liu, Yixuan Ye, **Cheng Liu#**, Wenjun Shen, Si Wu, Hau-San Wong: Refinement Contrastive Learning of Cell–Gene Associations for Unsupervised Cell Type Identification. AAAI 2025  [CCF A] **(Corresponding author)**
+- **[AAAI]** Liang Peng, Haopeng Liu, Yixuan Ye, **Cheng Liu#**, Wenjun Shen, Si Wu, Hau-San Wong: Refinement Contrastive Learning of Cell–Gene Associations for Unsupervised Cell Type Identification. AAAI 2026  [CCF A] **(Corresponding author)**
 
 - **[IEEE ICME]** Yixuan Ye, Yang Zhang, Liang Peng, **Cheng Liu#**, Si Wu, Hau-San Wong: Cross-View Neighborhood Contrastive Multi-View Clustering with View Mixup Feature Learning. IEEE ICME 2025  [CCF B] **(Corresponding author)**
 
