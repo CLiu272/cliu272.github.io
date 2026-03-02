@@ -64,14 +64,12 @@ Research Grant: (主持项目6项，第一参与人2项)
 
 Research Outputs (#indicate Corresponding author)
 ---
-**First author/Corresponding author: (IEEE TKDE-3，IEEE TNNLS-3， IEEE TCYB-2，IEEE TCBB-3, IEEE TCSVT-1, IEEE TBME-1, IEEE JBHI-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-2，IJCAI-1，ACMMM-1，COLING-1, ICME-2, ICONIP-1, IEEE SMC-1)**
+**First author/Corresponding author: (IEEE TKDE-3，IEEE TNNLS-3，IEEE TCYB-2，IEEE TCBB-4, IEEE TCSVT-1, IEEE TBME-1, IEEE JBHI-1, PR-1, ASOC-2, Information Science-1, Neurocomputing-1, KBS-1, CAIS-1, Bioinformatics-1, AAAI-2，IJCAI-1，ACMMM-1，COLING-1, ICME-2, ICONIP-1, IEEE SMC-1)**
 
 Manuscript:
 ------ 
 
-- **[IEEE TCBB]** Yixuan Ye, Jiawen Sun, Jiajun Xian, Dan Yang, Wenjun Shen, **Cheng Liu#**: SEAL: Semantic-Aware Contrastive Learning for scRNA-seq clustering. *IEEE Transactions on Computational Biology and Bioinformatics* **(Revision)**  [JCR Q1] [CCF B] **(Corresponding author)**
-
-- **[NN]** Jiongzhi Qiu, Yixuan Ye, Jiajun Xian, Dan Yang, Hangjun Che, **Cheng Liu**: Self-Supervised Semantic Graph Propagation for Multi-View Clustering.  Neural Networks. [JCR Q1] [CCF B] **(Under Review)** **(Corresponding author)**
+- **[NN]** Jiongzhi Qiu, Yixuan Ye, Jiajun Xian, Dan Yang, Hangjun Che, **Cheng Liu**: Self-Supervised Semantic Graph Propagation for Multi-View Clustering.  Neural Networks. [JCR Q1] [CCF B] **(Revision)** **(Corresponding author)**
 
 - **[IEEE TSMC]** **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Bridging Kernelized Representation and Wasserstein Graph Metric for Multi-View Clustering. *IEEE Transactions on Systems, Man and Cybernetics: Systems* [JCR Q1] [CCF B] **(Under Review)**
 
@@ -79,6 +77,7 @@ Manuscript:
 
 Representative Works (Journal):
 ------
+- **[IEEE TCBB]** Yixuan Ye, Jiawen Sun, Jiajun Xian, Dan Yang, Wenjun Shen, **Cheng Liu#**: SEAL: Semantic-Aware Contrastive Learning for scRNA-seq clustering. *IEEE Transactions on Computational Biology and Bioinformatics* (2026) [JCR Q1] [CCF B] **(Corresponding author)**
 
 - **[IEEE JBHI]**  **Cheng Liu**, Baoyuan Zheng, Hang Gao, Xibiao Wang, Fei Wang, Wenjun Shen, Si Wu : Deep Self-Reinforced Multi-View Subspace Clustering for Cancer Subtyping.  *IEEE Journal of Biomedical and Health Informatics* 2025. [JCR Q1] [CCF-C] 
 
