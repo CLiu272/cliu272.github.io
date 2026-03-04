@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu (IEEE Senior Member) is currently a Lecturer (讲师) in the Department of Computer Science at Shantou University and will soon join the College of Computer Science and Technology at Huaqiao University as a tenured Research Professor (特聘研究员).
+Dr. Cheng Liu (IEEE Senior Member) is currently a Research Professor (特聘研究员) in the College of Computer Science and Technology at Huaqiao University.
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
 
 Work Experiences
@@ -25,7 +25,7 @@ Research Areas
 
 Services
 ----
-BMC genome biology; Information Fusion; Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ACM Transactions on Knowledge Discovery from Data; ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023, 2026; ICME 2023, 2024, 2025; ACMMM 2025; KDD 2025, 2026.
+Reviewer: BMC genome biology; Information Fusion; Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ACM Transactions on Knowledge Discovery from Data; ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023, 2026; ICME 2023, 2024, 2025; ACMMM 2025, 2026; KDD 2025, 2026.
 
 
 Research Grant: (主持项目6项，第一参与人2项)
