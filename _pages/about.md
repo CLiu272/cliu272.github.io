@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cheng Liu (IEEE Senior Member) is currently a 特聘研究员 in the College of Computer Science and Technology at Huaqiao University.
+Dr. Cheng Liu (IEEE Senior Member) is currently a tenured faculty member (特聘研究员) in the College of Computer Science and Technology at Huaqiao University.
 He received the Ph.D. degree from City University of Hong Kong under the supervision of Prof. Raymond  Hau-San Wong in July 2018. He has an extensive publication record in esteemed refereed journals and conference proceedings, including IEEE TKDE, TNNLS, TCYB, TBME, TCBB, PR, AAAI, IJCAI, ACMMM, ICME etc. His research endeavors have received support from multiple government research funding agencies, notably National Natural Science Foundation of China, Natural Science Foundation of Guangdong Province.  
 
 Work Experiences
