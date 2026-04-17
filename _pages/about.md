@@ -75,7 +75,7 @@ Manuscript:
 Representative Works (Journal):
 ------
 
-- **[NN]** Wenjun Shen,  Yunfei Hu, Yuanfan Lei, Hau-San Wong, **Cheng Liu#**, Si Wu#, Xin Maizie Zhou#: CSsingle: A Unified Tool for Robust Decomposition of Bulk and Spatial Transcriptomic Data Across Diverse Single-Cell References.  Nucleic Acids Research (2026).  [5 Year Impact Factor: 16.8] **(Co-Corresponding author)**
+- **[NAR]** Wenjun Shen,  Yunfei Hu, Yuanfan Lei, Hau-San Wong, **Cheng Liu#**, Si Wu#, Xin Maizie Zhou#: CSsingle: A Unified Tool for Robust Decomposition of Bulk and Spatial Transcriptomic Data Across Diverse Single-Cell References.  Nucleic Acids Research (2026).  [5 Year Impact Factor: 16.8] **(Co-Corresponding author)**
 
 
 - **[NN]** Jiongzhi Qiu, Yixuan Ye, Jiajun Xian, Dan Yang, Hangjun Che, **Cheng Liu**: Self-Supervised Semantic Graph Propagation for Multi-View Clustering.  Neural Networks. (2026) [JCR Q1] [CCF B] **(Corresponding author)**
