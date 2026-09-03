@@ -28,7 +28,7 @@ Services
 Reviewer: BMC genome biology; Information Fusion; Applied Soft Computing; Computers in Biology and Medicine; Knowledge Based Systems; Neurocomputing; Information Science; Pattern Recognition; IEEE Transaction on Fuzzy Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Biomedical and Engineering; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Image Processing; IEEE Transactions on Computational Biology and Bioinformatics; IEEE Transactions on Computational Social Systems. ACM Transactions on Knowledge Discovery from Data; ICONIP 2019; ICPR 2020; AAAI 2020, 2021, 2023, 2026; ICME 2023, 2024, 2025; ACMMM 2025, 2026; KDD 2025, 2026.
 
 
-Research Grant: (主持项目6项，第一参与人2项)
+Research Grant: (主持项目7项，第一参与人2项)
 ----
 
 - **[国家自然科学基金项目面上项目]** 面向肿瘤微环境细胞空间域识别的多维信息协同空间聚类算法研究，国家自然科学基金项目, 面上项目（2027-2030），50万 **主持(PI)**
