@@ -30,12 +30,14 @@ Reviewer: BMC genome biology; Information Fusion; Applied Soft Computing; Comput
 
 Research Grant: (主持项目6项，第一参与人2项)
 ----
-- **[国家自然科学基金项目]** Multi-view survival analysis for multi-omic cancer data (Project No.62106136). (2022.01 - 2024.12)
-面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **主持(PI)**
 
-- **[广东省自然科学基金项目面上项目]** Adaptive Multi-Task Learning Algorithms and Its Application to Cancer Data Analysis (Project No.2022A1515010434). (2022.01 - 2024.12) 自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **主持(PI)**
+- **[国家自然科学基金项目面上项目]** 面向肿瘤微环境细胞空间域识别的多维信息协同空间聚类算法研究，国家自然科学基金项目, 面上项目（2027-2030），50万 **主持(PI)**
 
-- **[广东省自然科学基金项目面上项目]** 基于图分布对齐的多视图学习算法研究及其在不完备多组学癌症数据分析的应用, 广东省自然科学基金项目面上项目（已公示，2025-2028）,  10万， **主持(PI)**
+- **[国家自然科学基金项目青年项目]** 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **主持(PI)**
+
+- **[广东省自然科学基金项目面上项目]**  自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **主持(PI)**
+
+- **[广东省自然科学基金项目面上项目]** 基于图分布对齐的多视图学习算法研究及其在不完备多组学癌症数据分析的应用, 广东省自然科学基金项目面上项目（2025-2027）,  10万， **主持(PI)**
 
 - **[广东省教育厅青年创新人才项目]** 结构化稀疏模型及其生物数据的应用, 广东省教育厅青年创新人才项目，5万， **主持(PI)**
 
@@ -43,12 +45,13 @@ Research Grant: (主持项目6项，第一参与人2项)
 
 - **[汕头大学卓越人才科研项目]**  基于正则化结构化稀疏模型及其医疗数据应用，汕头大学卓越人才科研启动基金，100万， **主持(PI)**
 
-- **[国家自然科学基金项目]** 多网络视角学习增强的微生物和疾病复杂联系预测 (2024-2027)，50 万元, 国家自然科学基金面上项目，62372282，第一参与人
+- **[国家自然科学基金项目]** 多网络视角学习增强的微生物和疾病复杂联系预测 (2024-2027)，50 万元, 国家自然科学基金面上项目，第一参与人
 
 - **[广东省自然科学基金-青年提升项目]** 基于最优传输和单细胞转录组测序研究肿瘤浸润淋巴细胞的空间异质性(2023-2025), 30万，广东省自然科学基金，青年提升项目，第一参与人
 
 本科竞赛指导
 ----
+- 2026 全国大学生数学建模大赛 一等奖
 - 2024 中国机器人及人工智能大赛全国总决赛  三等奖
 - 2024 广东省算法调优竞赛项目  三等奖
 - 2024 中国创意挑战大赛(国赛普通高等院校赛道) 二等奖
@@ -68,10 +71,9 @@ Research Outputs (#indicate Corresponding author)
 
 Manuscript:
 ------ 
-- **[IEEE TSMC]** **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Bridging Kernelized Representation and Wasserstein Graph Metric for Multi-View Clustering. *IEEE Transactions on Systems, Man and Cybernetics: Systems* [JCR Q1] [CCF B] **(Under Review)**
+- **[IEEE TSMC]** **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Bridging Kernelized Representation and Wasserstein Graph Metric for Multi-View Clustering. *IEEE Transactions on Emerging Topics in Computational Intelligence* [JCR Q1] **(Revision)**
 
   
-
 Representative Works (Journal):
 ------
 
