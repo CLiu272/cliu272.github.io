@@ -71,7 +71,7 @@ Research Outputs (#indicate Corresponding author)
 
 Manuscript:
 ------ 
-- **[IEEE TSMC]** **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Bridging Kernelized Representation and Wasserstein Graph Metric for Multi-View Clustering. *IEEE Transactions on Emerging Topics in Computational Intelligence* [JCR Q1] **(Revision)**
+- **[IEEE TETCI]** **Cheng Liu**, Rui Li, Hangjun Che, Man-Fai Leung, Si Wu, Zhiwen Yu and Hau-San Wong: Bridging Kernelized Representation and Wasserstein Graph Metric for Multi-View Clustering. *IEEE Transactions on Emerging Topics in Computational Intelligence* [JCR Q1] **(Revision)**
 
   
 Representative Works (Journal):
