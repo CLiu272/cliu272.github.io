@@ -12,9 +12,9 @@ He received the Ph.D. degree from City University of Hong Kong under the supervi
 
 Work Experiences
 ----
-- 讲师,  Department of Computer Science,  Shantou University, 2018 - 2025.
+- 讲师,  Department of Computer Science, Shantou University, 2018 - 2025.
 
-- 研究员,  College of Computer Science and Technology,  Huaqiao University, 2025 - now. 
+- 研究员,  College of Computer Science and Technology, Huaqiao University, 2025 - now. 
 
     
 Research Areas
@@ -31,9 +31,9 @@ Reviewer: BMC genome biology; Information Fusion; Applied Soft Computing; Comput
 Research Grant: (主持项目7项，第一参与人2项)
 ----
 
-- **[国家自然科学基金项目面上项目]** 面向肿瘤微环境细胞空间域识别的多维信息协同空间聚类算法研究，国家自然科学基金项目, 面上项目（2027-2030），50万 **主持(PI)**
+- **[国家自然科学基金项目面上项目]** 面向肿瘤微环境细胞空间域识别的多维信息协同空间聚类算法研究，国家自然科学基金项目,面上项目（2027-2030） 50万 **主持(PI)**
 
-- **[国家自然科学基金项目青年项目]** 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024），30万 **主持(PI)**
+- **[国家自然科学基金项目青年项目]** 面向多组学癌症数据的多视图生存分析算法的研究, 国家自然科学基金项目, 青年基金项目（2022-2024） 30万 **主持(PI)**
 
 - **[广东省自然科学基金项目面上项目]**  自适应多任务学习算法研究及其在癌症数据分析中的应用,广东省自然科学基金项目面上项目（2022-2024）,  10万 **主持(PI)**
 
